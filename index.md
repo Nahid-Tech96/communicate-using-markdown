@@ -9,5 +9,19 @@ A cute huskie picture![Image of Yaktocat](https://octodex.github.com/images/yakt
 
 
 
+
+```
+This text is *italic*.  
+This text is **bold**
+```
+
+
+
+
+
+```latex
+
+
+
 ####Header level 4
 text text
